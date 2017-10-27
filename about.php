@@ -2,7 +2,7 @@
 <html>
 
 <head>
-    <title>ARISU//Home</title>
+    <title>ARISU//About</title>
     <meta charset="utf-8">
     <meta name="description" content="Just some Lain's page.">
     <meta name="author" content="Lain Iwakura">
@@ -69,61 +69,78 @@
         <br>
         <br>
         <div class="divider"></div>
-        	<div class="flex-row backblack">
-        		<div class="image">
-        			<img src="/res/img/image1.png" style="border: 3px solid white;">
-        		</div>
-        		<div class="hometext">
-        			<span class="title">A Brief Introduction</span>
-        			<br>
-        			<p class="about">
-        				Arisu is a group dedicated to combatting the botnet and restoring our own individuality, as people, against three letter agencies and megacorps. We host guides, files, books, and blog posts, along with our Compendium of helpful sources on the internet. If you wish to read more about our project, read our About page, <a href="/about.php"><u>here.</u></a></p>
-        		</div>
-        	</div>
-        <div class="divider"></div>
-        <div class="flex-row backblack">
-        		
-        		<div class="hometext">
-        			<span class="title">Affiliates</span>
-        			<br>
-        			<p class="about">
-        				Currently Arisu has no affiliates. If you lead an organization or own a website which you would like to affiliate on Arisu's website, please contact us with the contact information below. We are always welcome to anyone who wants to support us and allow us to support them.</p><br>
-        			<span class="title">The Current Lineup:</span>
-        			<br>
-        			<p class="about">
-        				The Official Member-count is <b><u>2</u></b>.</p><br>
-        				<ul>
-        					<li>Lain</li>
-        					<li>AKIRA</li>
-        				</ul>
-        		</div>
-        		<div class="image2">
-        			<img src="/res/img/image2.png" style="border: 3px solid white;margin-left: auto;">
-        		</div>
-        	</div>
-        <div class="divider"></div>
-        <br>
-        <center><pre id="center">
-XMPP: lain@cypher.pw
-eMail: lain@cypher.pw
-eMail: lainiwakura@tuta.io
-PGP: C94B 0F3C 19CC AB8D 9E2B 65B6 EF8A 047B DDB3 B7E6 <a href="lain.asc"><u>DOWNLOAD</u></a>
-
-Please use PGP when eMailing and OTR during XMPP chats.
-
-BTC: 1LainKPe75TBxNYgdaf2SKYEuBWetQsNJc
-			</pre>
-			<!-- div class="divider"></div--><br><br>
-			<p class="about">
-To-Do List:<br>
-------------<br>
-Blog<br>
-File Hosting/Repository<br>
-Recruitment<br>
-Home Page</p>
-		</center>
+        <center class="backblack">
+            <p class="about">
+                <span class="title">About Arisu</span>
+                <br>
+                <br> In today's era of mass surveillance, we only have our last crumbling fronts in privacy, security and individuality. Three letter agencies continue to watch, sniff, and store any data they can find out about us. And it's not just government agencies, it's big corporations as well. At an alarmingly fast rate we are losing our own right to be ourselves and are slowly transforming to be nothing but a number on a screen with terabytes of data associated to it.
+                <br>
+                <br>Is this what we really want? Do we want to just hand our individuality over to state and corporate tyranny? Do we want to lose what it means to be human?
+                <br>
+                <br>Definitely not.
+                <br>
+                <br>But sure enough, even when we feel like our data isn't being mined, a targetted advertisement will pop up. Your web browser will give you suggested searches with autocomplete. Your phone will begin to autocorrect words that you don't use often. We like to call this surveillance and datamining the "Botnet."
+                <br>
+                <br>How do we oppose this?
+                <br>
+                <br>Arisu is a group of cyberpunks with three goals in mind:
+                <br>
+                <br>To bring awareness to the illegal spying and privacy invasion by the state and the privately owned.
+                <br>To create a platform for content which helps the masses understand how they can fight back and learn about technology in its roots.
+                <br>To fight back ourselves against tyranny and develop our own set of devices, programs, and protocols, ensuring freedom.
+                <br>
+                <br>We want to create a movement to promote a safer, more secure internet. We can't do it without your help.
+            </p>
+            <br>
+            <br>
+            <div class="divider"></div>
+            <br>
+            <br>
+            <span class="title">On "closing this world and opening the next."</span>
+            <br>
+            <br>
+            <p class="about">
+                Of course, Arisu does not mean literally closing this world -- that would be impossible.
+                <br>
+                <br> We mean as in ending the war between the individual and the Botnet, advancing past it to an era where technology is secure from prying eyes and people have the right to hide what they deem is personal information. We want to be the catalyst which "opens" this new world, this new era of technology and advancement. It's an ambitious goal, but it most definitely isn't impossible to achieve.
+            </p>
+            <br>
+            <br>
+            <div class="divider"></div>
+            <br>
+            <br>
+            <span class="title">Politics</span>
+            <br>
+            <br>
+            <p class="about">
+                <br>Arisu is a community, therefore it would be nearly impossible to have an exact political affiliation. We don't endorse any particular leaders or candidates, we don't push people to vote for specific candidates or support them if they don't want to vote, we don't like to interfere (unless there is most definitely some sort of wrongdoing occuring which interferes with our goals.)
+            </p>
+            <br>
+            <br>
+            <div class="divider"></div>
+            <br>
+            <br>
+            <span class="title">Joining Arisu</span>
+            <br>
+            <br>
+            <p class="about">
+                <br>To join Arisu, all you need to do is say you're part of us! It's that easy! We want to promote an open community in that everyone can join in the fight against the botnet. Don't think of Arisu as a restricted and closed-entry group -- more like a movement.
+                <br>
+                <br>Now, to join the formal ranks and have your alias listed on the site, there are a few requirements, mainly pushing content to followers and other members of the group. It's not a paid position, everything is voluntary. Of course, we don't just want to take anyone -- we need interested, knowledgeable and dedicated people to help keep the momentum.
+                <br>
+                <br>If you are still interested in joining, use the contact information on the <a href="https://arisu.pw">Home Page</a> to talk to Lain.
+            </p>
+            <br>
+            <br>
+            <div class="divider"></div>
+            <br>
+            <br>
+            <span class="title">Close this World, Open the Next.</span>
+            <br>
+            <br>
+        </center>
     </section>
-    <audio id="bgm" src="/res/audio/register.ogg" style="visibility:hidden;" loop autoplay></audio>
+    <audio id="bgm" src="/res/audio/menu.ogg" style="visibility:hidden;" loop autoplay></audio>
     <script src="/js/audio.js">
     </script>
 </body>
